@@ -8,7 +8,9 @@ This is also where you can seek help from the community.
 
 
 ## Project ideas (help needed!)
-If you are interested in helping out, please assign an issue from the "help needed" projects. 
+If you are interested in helping out, take a look at the potential projects below and assign an corresponding issue to yourself from the repo issue list.
+
+Once you form a project team, move the idea to the "in progress" section below, create a new repo and link to it. 
 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md).
@@ -19,10 +21,11 @@ If you are interested in helping out, please assign an issue from the "help need
 ## End-to-end tutorials (in progress)
 Take a look at the in progress projects to see what it's like to work on a project.
 
-* [Deeplab V3](https://github.com/tensorflow/models/tree/master/research/deeplab ) - image segmentation, which is supported by TFLite but there’s no tutorial on how to convert Deeplab v3 TF models to TFLite.
+* [Deeplab V3](https://github.com/tensorflow/models/tree/master/research/deeplab ) - image segmentation, which is supported by TFLite but there’s no tutorial on how to convert Deeplab v3 TF models to TFLite. Note: the TFLite model conversion process for a variety of DeepLab V3 models along with inference in Python - [available from TF Hub](https://tfhub.dev/s?module-type=image-segmentation&publisher=sayakpaul).
 * [Mask-RCNN](https://github.com/matterport/Mask_RCNN ) object detection, which is one of the most popular on-device ML use cases.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - a very popular ASR framework.
 * Segmentation + Style Transfer - [project repo](https://github.com/margaretmz/segmentation-style-transfer).
+* [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - TFLite model conversion process along with inference in Python - [available from TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). 
 
 ## End-to-end tutorials (completed)
 
