@@ -19,15 +19,15 @@ Once you form a project team, move the idea to the "in progress" section below, 
 * Speech Command - [overview](overviews/speech_command.md).
 
 ## End-to-end tutorials (in progress)
-Take a look at the in progress projects to see what it's like to work on a project.
 
-* [Deeplab V3](https://github.com/tensorflow/models/tree/master/research/deeplab ) - image segmentation, which is supported by TFLite but there’s no tutorial on how to convert Deeplab v3 TF models to TFLite. Note: the TFLite model conversion process for a variety of DeepLab V3 models along with inference in Python - [available from TF Hub](https://tfhub.dev/s?module-type=image-segmentation&publisher=sayakpaul).
+Take a look at the in progress projects to see what it's like to work on a project.
 * [Mask-RCNN](https://github.com/matterport/Mask_RCNN ) object detection, which is one of the most popular on-device ML use cases.
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - a very popular ASR framework.
 * Segmentation + Style Transfer - [project repo](https://github.com/margaretmz/segmentation-style-transfer).
-* [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - TFLite model conversion process along with inference in Python - [available from TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). 
 
 ## End-to-end tutorials (completed)
 
 Once a project has been completed, please open a PR to [awesome-tfite](https://github.com/margaretmz/awesome-tflite) to add the links of the tflite model, sample code and tutorials.
 * [U-GAT-IT](https://github.com/taki0112/UGATIT) (Selfie <-> Anime) - [project repo](https://github.com/margaretmz/selfie2anime-e2e-tutorial).
+* [DeepLab V3](https://github.com/tensorflow/models/tree/master/research/deeplab ) - a very well-known family of image segmentation models. Different variants of DeepLab V3 models [available on TF Hub](https://tfhub.dev/s?module-type=image-segmentation&publisher=sayakpaul). The models are accompanied by Colab Notebooks that show the TFLite model conversion process along with running inference in Python. 
+* [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - TFLite model conversion process along with inference in Python - [available from TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). 
