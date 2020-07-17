@@ -8,7 +8,7 @@ This is also where you can seek help from the community.
 
 
 ## Project ideas (help needed!)
-If you are interested in helping out, take a look at the potential projects below and assign an corresponding issue to yourself from the repo issue list.
+If you are interested in helping out, take a look at the potential projects below and assign an corresponding issue to yourself from the [repo issue](https://github.com/ml-gde/e2e-tflite-tutorials/issues) list.
 
 Once you form a project team, move the idea to the "in progress" section below, create a new repo and link to it. 
 
@@ -17,6 +17,17 @@ Once you form a project team, move the idea to the "in progress" section below, 
 * Sound classification - [overview](overviews/classify_sound.md).
 * SPICE (Pitch Detection) - [overview](overviews/spice_pitch_detection.md).
 * Speech Command - [overview](overviews/speech_command.md).
+
+Here are some more details on how exactly you can help:
+
+* Generate ideas
+* Create tflite model(s)
+* Create Colab Notebook(s) demonstrating the model creation process along with running inference in Python
+* Publish tflite model(s) optional
+* Develop Android app(s) to demonstrate the model(s)
+* Develop iOS app(s) to demonstrate the model(s)
+
+The tutorials listed below would give you a good idea of the afore-mentioned pointers. 
 
 ## End-to-end tutorials (in progress)
 Take a look at the in progress projects to see what it's like to work on a project.
@@ -31,3 +42,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 
 Once a project has been completed, please open a PR to [awesome-tfite](https://github.com/margaretmz/awesome-tflite) to add the links of the tflite model, sample code and tutorials.
 * [U-GAT-IT](https://github.com/taki0112/UGATIT) (Selfie <-> Anime) - [project repo](https://github.com/margaretmz/selfie2anime-e2e-tutorial).
+
+## Contact the admins
+
+This should be done via GitHub issues. ***Only*** use it when you have something relevant to discuss otherwise the issues will be automatically closed. 
