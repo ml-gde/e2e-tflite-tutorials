@@ -27,7 +27,7 @@ Here are some more details on how exactly you can help:
 * Develop Android app(s) to demonstrate the model(s)
 * Develop iOS app(s) to demonstrate the model(s)
 
-The tutorials listed below would give you a good idea of the afore-mentioned pointers. 
+The tutorials listed below would give you a good idea of the afore-mentioned pointers. [Here](https://github.com/ml-gde/e2e-tflite-tutorials/wiki/How-to-contribute-to-the-E2E-TFLite-Tutorials%3F) you can find more detailed instructions on **how to contribute**. 
 
 ## End-to-end tutorials (in progress)
 Take a look at the in progress projects to see what it's like to work on a project.
