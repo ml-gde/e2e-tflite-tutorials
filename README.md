@@ -15,7 +15,6 @@ Once you form a project team, move the idea to the "in progress" section below, 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md).
 * Sound classification - [overview](overviews/classify_sound.md).
-* Speech Command - [overview](overviews/speech_command.md).
 
 Here are some more details on how exactly you can help:
 
@@ -38,6 +37,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - art generation. Colab Notebooks demonstrating TFLite model conversion process along with inference in Python are [available on TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). The TFLite models can be downloaded from the same link. 
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * CartoonGAN - [project repo](https://github.com/margaretmz/CartoonGAN-e2e-tflite-tutorial).
+* Speech Command - [overview](overviews/speech_command.md).
 
 ## End-to-end tutorials (completed)
 
