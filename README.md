@@ -43,7 +43,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 Once a project has been completed, please open a PR to [awesome-tfite](https://github.com/margaretmz/awesome-tflite) to add the links of the tflite model, sample code and tutorials.
 * [U-GAT-IT](https://github.com/taki0112/UGATIT) (Selfie <-> Anime) - [project repo](https://github.com/margaretmz/selfie2anime-e2e-tutorial).
 * SPICE (Pitch Detection) - [Project repo](https://github.com/farmaker47/Pitch_Estimator) - [Medium article](https://medium.com/@farmaker47/estimating-musical-scores-pitch-in-android-with-tensorflows-spice-model-4d712ded96f8).
-* [How to Create a Cartoonizer with TensorFlow Lite] - [project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite/), [blog post](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html).
+* How to Create a Cartoonizer with TensorFlow Lite - [project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite/), [blog post](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html).
 
 ## Contact the admins
 
