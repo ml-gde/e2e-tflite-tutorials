@@ -45,6 +45,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * [U-GAT-IT](https://github.com/taki0112/UGATIT) (Selfie <-> Anime) - [project repo](https://github.com/margaretmz/selfie2anime-e2e-tutorial).
 * SPICE (Pitch Detection) - [Project repo](https://github.com/farmaker47/Pitch_Estimator) - [Medium article](https://medium.com/@farmaker47/estimating-musical-scores-pitch-in-android-with-tensorflows-spice-model-4d712ded96f8).
 * How to Create a Cartoonizer with TensorFlow Lite - [project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite/), [blog post](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html).
+* Training a custom object detector (purely on Colab) to converting it to TensorFlow Lite - [Colab Notebook tutorials](https://github.com/sayakpaul/E2E-Object-Detection-in-TFLite/tree/master/colab_training). The [project repository](https://github.com/sayakpaul/E2E-Object-Detection-in-TFLite/) also shows how to train a custom object detector using Cloud TPUs from Colab, optimize it with TensorFlow Lite, and run inference with the optimized model. 
 
 ## Contact the admins
 
