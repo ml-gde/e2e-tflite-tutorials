@@ -45,6 +45,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * [U-GAT-IT](https://github.com/taki0112/UGATIT) (Selfie <-> Anime) - [project repo](https://github.com/margaretmz/selfie2anime-e2e-tutorial).
 * SPICE (Pitch Detection) - [Project repo](https://github.com/farmaker47/Pitch_Estimator) - [Medium article](https://medium.com/@farmaker47/estimating-musical-scores-pitch-in-android-with-tensorflows-spice-model-4d712ded96f8).
 * How to Create a Cartoonizer with TensorFlow Lite - [project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite/), [blog post](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html).
+* Optimizing MobileDet for Mobile Deployments - [Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/MobileDet_Conversion_TFLite.ipynb), [article](https://sayak.dev/mobiledet-optimization/).
 
 ## Contact the admins
 
