@@ -47,6 +47,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * SPICE (Pitch Detection) - [Project repo](https://github.com/farmaker47/Pitch_Estimator) - [Medium article](https://medium.com/@farmaker47/estimating-musical-scores-pitch-in-android-with-tensorflows-spice-model-4d712ded96f8).
 * How to Create a Cartoonizer with TensorFlow Lite - [project repo](https://github.com/margaretmz/Cartoonizer-with-TFLite/), [blog post](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html).
 * Optimizing MobileDet for Mobile Deployments - [Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/MobileDet_Conversion_TFLite.ipynb), [article](https://sayak.dev/mobiledet-optimization/).
+* Training custom object detectors and converting them to TFLite - [project repo](https://github.com/sayakpaul/E2E-Object-Detection-in-TFLite). This repository shows how to train a custom detection model with the TFOD API (TF2 and TF1), optimize it with TFLite, and perform inference with the optimized model.
 
 ## Contact the admins
 
