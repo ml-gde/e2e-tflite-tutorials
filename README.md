@@ -31,8 +31,6 @@ The tutorials listed below would give you a good idea of the afore-mentioned poi
 Take a look at the in progress projects to see what it's like to work on a project.
 
 * [Deeplab V3](https://github.com/tensorflow/models/tree/master/research/deeplab ) - image segmentation. Colab Notebooks demonstrating the TFLite model conversion process for a variety of DeepLab V3 models along with running inference in Python are [available on TF Hub](https://tfhub.dev/s?module-type=image-segmentation&publisher=sayakpaul). The TFLite variants of the DeepLab V3 models are also available from the same link. 
-* [Mask-RCNN](https://github.com/matterport/Mask_RCNN ) object detection, which is one of the most popular on-device ML use cases.
-* [SSD MobileNetV2] object detection, [project repo](https://github.com/sayakpaul/E2E-Object-Detection-in-TFLite).
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - a very popular ASR framework.
 * Segmentation + Style Transfer - [project repo](https://github.com/margaretmz/segmentation-style-transfer).
 * [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - art generation. Colab Notebooks demonstrating TFLite model conversion process along with inference in Python are [available on TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). The TFLite models can be downloaded from the same link. 
