@@ -14,7 +14,7 @@ Once you form a project team, move the idea to the "in progress" section below, 
 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/33)).
-* Sound classification - [overview](overviews/classify_sound.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/32).
+* Sound classification - [overview](overviews/classify_sound.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/32)).
 
 Here are some more details on how exactly you can help:
 
