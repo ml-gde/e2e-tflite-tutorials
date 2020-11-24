@@ -37,6 +37,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
 * CRAFT in TFLite - [project_repo](https://github.com/tulasiram58827/craft_tflite)
+* OCR TFLite Models - [project repo](https://github.com/tulasiram58827/ocr_tflite)
 
 ## End-to-end tutorials (completed)
 
