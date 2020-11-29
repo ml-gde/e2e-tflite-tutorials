@@ -14,7 +14,6 @@ Once you form a project team, move the idea to the "in progress" section below, 
 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/33)).
-* Sound classification - [overview](overviews/classify_sound.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/32)).
 
 Here are some more details on how exactly you can help:
 
@@ -36,6 +35,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
 * OCR TFLite Models - [project repo](https://github.com/tulasiram58827/ocr_tflite)
+* Sound classification - [overview](overviews/classify_sound.md) [project repo](https://github.com/farmaker47/Yamnet_classification_project).
 
 ## End-to-end tutorials (completed)
 
