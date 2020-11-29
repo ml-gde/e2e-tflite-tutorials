@@ -14,7 +14,8 @@ Once you form a project team, move the idea to the "in progress" section below, 
 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/33)).
-* Sound classification - [overview](overviews/classify_sound.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/32)).
+* A mobile application (preferably Android/iOS) demonstrating text detection with CRAFT and EAST (refer to [this blog post](https://sayak.dev/optimizing-text-detectors/)).
+* A mobile application (preferably Android/iOS) demonstrating optical character recognition (refer to [this Colab Notebook](https://colab.research.google.com/github.com/tulasiram58827/ocr_tflite/blob/main/colabs/ENDTOEND_OCR_TFLITE.ipynb) to see how this is done in Python).
 
 Here are some more details on how exactly you can help:
 
@@ -35,6 +36,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - art generation. Colab Notebooks demonstrating TFLite model conversion process along with inference in Python are [available on TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). The TFLite models can be downloaded from the same link. 
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
+* Sound classification - [overview](overviews/classify_sound.md) [project repo](https://github.com/farmaker47/Yamnet_classification_project).
 
 ## End-to-end tutorials (completed)
 
