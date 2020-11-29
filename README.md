@@ -14,6 +14,8 @@ Once you form a project team, move the idea to the "in progress" section below, 
 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/33)).
+* A mobile application (preferably Android/iOS) demonstrating text detection with CRAFT and EAST (refer to [this blog post](https://sayak.dev/optimizing-text-detectors/)).
+* A mobile application (preferably Android/iOS) demonstrating optical character recognition (refer to [this Colab Notebook](https://colab.research.google.com/github.com/tulasiram58827/ocr_tflite/blob/main/colabs/ENDTOEND_OCR_TFLITE.ipynb) to see how this is done in Python).
 
 Here are some more details on how exactly you can help:
 
