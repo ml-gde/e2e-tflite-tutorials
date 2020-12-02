@@ -6,7 +6,6 @@ We would love your help! You can help by creating a tflite model ready for imple
 
 This is also where you can seek help from the community.
 
-
 ## Project ideas (help needed!)
 If you are interested in helping out, take a look at the potential projects below and assign an corresponding issue to yourself from the [repo issue](https://github.com/ml-gde/e2e-tflite-tutorials/issues) list.
 
@@ -26,7 +25,7 @@ Here are some more details on how exactly you can help:
 * Develop Android app(s) to demonstrate the model(s)
 * Develop iOS app(s) to demonstrate the model(s)
 
-The tutorials listed below would give you a good idea of the afore-mentioned pointers. [Here](https://github.com/ml-gde/e2e-tflite-tutorials/wiki/How-to-contribute-to-the-E2E-TFLite-Tutorials%3F) you can find more detailed instructions on **how to contribute**. 
+The tutorials listed below would give you a good idea of the afore-mentioned pointers. The [Contribution Guidelines](https://github.com/ml-gde/e2e-tflite-tutorials/blob/master/CONTRIBUTING.md) provide detailed instructions on **how you can contribute**.
 
 ## End-to-end tutorials (in progress)
 Take a look at the in progress projects to see what it's like to work on a project.
