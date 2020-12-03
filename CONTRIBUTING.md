@@ -14,7 +14,7 @@ Please follow these steps when contributing:
 * Write an E2E tutorial 
   * Here is an example - [How to Create a Cartoonizer with TensorFlow Lite](https://blog.tensorflow.org/2020/09/how-to-create-cartoonizer-with-tf-lite.html).
   
-*Note that you can also write a blog post about model conversion processes that are generally non-trivial. Here's a [good example](https://sayak.dev/mobiledet-optimization/). If you want to benchmark multiple TensorFlow Lite models and write a blog post comparing their performance aspects we welcome that as well. Refer to [this blog post](https://sayak.dev/optimizing-text-detectors/) if you are interested in writing such materials.*
+*Note that you can also write a blog post about model conversion processes that are generally non-trivial. Here's a good example - [Optimizing MobileDet for Mobile Deployments](https://sayak.dev/mobiledet-optimization/). If you want to benchmark multiple TensorFlow Lite models and write a blog post comparing their performance aspects we welcome that as well. Refer to this blog post - [A Battle of Text Detectors for Mobile Deployments: CRAFT vs. EAST](https://sayak.dev/optimizing-text-detectors/) if you are interested in writing such materials.*
 
 **Step 3.** If you are interested in helping out, please create a project repo and add the link to the E2E TFLite Tutorials README. Update project to "In Progress" section.  
 **Step 4.** After project is completed, move from "In progress " to "Completed" section on E2E TFLite Tutorials. And request with a PR to add your project to [awesome-tflite].
