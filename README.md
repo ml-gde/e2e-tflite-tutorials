@@ -36,6 +36,7 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
 * Sound classification - [overview](overviews/classify_sound.md) [project repo](https://github.com/farmaker47/Yamnet_classification_project).
+* MIRNet TFLite models for low-light image enhancement - [project repository](https://github.com/sayakpaul/MIRNet-TFLite/).
 
 ## End-to-end tutorials (completed)
 
