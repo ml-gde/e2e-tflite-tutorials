@@ -35,7 +35,6 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * [`arbitrary_image_stylization` by Magenta](https://github.com/magenta/magenta/tree/f3b66aa1354cd933f0e9757a567cc9a3d2d03297/magenta/models/arbitrary_image_stylization) - art generation. Colab Notebooks demonstrating TFLite model conversion process along with inference in Python are [available on TF Hub](https://tfhub.dev/sayakpaul/lite-model/arbitrary-image-stylization-inceptionv3/dr/predict/1). The TFLite models can be downloaded from the same link. 
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
-* Sound classification - [overview](overviews/classify_sound.md) [project repo](https://github.com/farmaker47/Yamnet_classification_project).
 * MIRNet TFLite models for low-light image enhancement - [project repository](https://github.com/sayakpaul/MIRNet-TFLite/).
 
 ## End-to-end tutorials (completed)
@@ -49,6 +48,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * Create Artistic Effect by Stylizing the Image Background - [Part I](https://medium.com/google-developer-experts/image-background-stylizer-part-1-project-intro-d68c4547e7e3) | [Part II](https://medium.com/@spsayakpaul/e614af91944d) | [Part III](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a) | [Code Repository](https://github.com/margaretmz/segmentation-style-transfer)
 * Text detectors in TensorFlow Lite - [Converting CRAFT to TFLite: A Guide to PyTorch-TFLite Conversion](https://tulasi.dev/craft-in-tflite) | [A Battle of Text Detectors for Mobile Deployments: CRAFT vs. EAST](https://sayak.dev/optimizing-text-detectors/)
 * OCR TFLite Models - [Project Repository](https://github.com/tulasiram58827/ocr_tflite) | [End-to-End OCR Notebook](https://github.com/tulasiram58827/ocr_tflite/blob/main/colabs/ENDTOEND_OCR_TFLITE.ipynb)
+* Sound classification - [overview](overviews/classify_sound.md) [Project repo](https://github.com/farmaker47/Yamnet_classification_project) [Tutorial](https://farmaker47.medium.com/classification-of-sounds-using-android-mobile-phone-and-the-yamnet-ml-model-539bc199540)
 
 ## Contact the admins
 
