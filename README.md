@@ -48,7 +48,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * Create Artistic Effect by Stylizing the Image Background - [Part I](https://medium.com/google-developer-experts/image-background-stylizer-part-1-project-intro-d68c4547e7e3) | [Part II](https://medium.com/@spsayakpaul/e614af91944d) | [Part III](https://farmaker47.medium.com/android-part-of-create-artistic-effect-by-stylizing-an-image-segment-2a646da2d39a) | [Code Repository](https://github.com/margaretmz/segmentation-style-transfer)
 * Text detectors in TensorFlow Lite - [Converting CRAFT to TFLite: A Guide to PyTorch-TFLite Conversion](https://tulasi.dev/craft-in-tflite) | [A Battle of Text Detectors for Mobile Deployments: CRAFT vs. EAST](https://sayak.dev/optimizing-text-detectors/)
 * OCR TFLite Models - [Project Repository](https://github.com/tulasiram58827/ocr_tflite) | [End-to-End OCR Notebook](https://github.com/tulasiram58827/ocr_tflite/blob/main/colabs/ENDTOEND_OCR_TFLITE.ipynb)
-* Sound classification - [overview](overviews/classify_sound.md) [Project repo](https://github.com/farmaker47/Yamnet_classification_project) [Tutorial](https://farmaker47.medium.com/classification-of-sounds-using-android-mobile-phone-and-the-yamnet-ml-model-539bc199540)
+* Sound classification - [Overview](overviews/classify_sound.md) | [Project repo](https://github.com/farmaker47/Yamnet_classification_project) | [Tutorial](https://farmaker47.medium.com/classification-of-sounds-using-android-mobile-phone-and-the-yamnet-ml-model-539bc199540)
 
 ## Contact the admins
 
