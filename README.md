@@ -1,8 +1,6 @@
 # E2E TFLite Tutorials
 
-Here is a list of sample app ideas and projects.
-
-We would love your help! You can help by creating a tflite model ready for implementation, add a mobile app idea that needs a tflite model created, or write an end-to-end tutorial with sample code. 
+We would love your help! You can help by creating a TensorFlow Lite (tflite/TFLite) model ready for implementation, add a mobile app idea that needs a tflite model created, or write an end-to-end tutorial with sample code. 
 
 This is also where you can seek help from the community.
 
@@ -13,8 +11,8 @@ Once you form a project team, move the idea to the "in progress" section below, 
 
 * YOLO - [overview](overviews/yolo.md).
 * Classify pose - [overview](overviews/classify_pose.md) (an example use-case can be found [here](https://github.com/ml-gde/e2e-tflite-tutorials/issues/33)).
-* A mobile application (preferably Android/iOS) demonstrating text detection with CRAFT and EAST (refer to [this blog post](https://sayak.dev/optimizing-text-detectors/)).
 * A mobile application (preferably Android/iOS) demonstrating optical character recognition (refer to [this Colab Notebook](https://colab.research.google.com/github/tulasiram58827/ocr_tflite/blob/main/colabs/ENDTOEND_OCR_TFLITE.ipynb) to see how this is done in Python).
+* A mobile application (preferably Android/iOS) demonstrating several text-to-speech models as shown in [this repository](https://github.com/tulasiram58827/TTS_TFLite). 
 
 Here are some more details on how exactly you can help:
 
@@ -30,7 +28,7 @@ The tutorials listed below would give you a good idea of the afore-mentioned poi
 ## End-to-end tutorials (in progress)
 Take a look at the in progress projects to see what it's like to work on a project.
 
-* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - a very popular ASR framewor - [project repo](https://github.com/AbdulRashidReshamwala/DeepSpeech_demo).
+* [DeepSpeech](https://github.com/mozilla/DeepSpeech) - a very popular ASR framework - [project repo](https://github.com/AbdulRashidReshamwala/DeepSpeech_demo).
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
 * Boundless model for image extrapolation - [project notebook](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb).
