@@ -31,8 +31,6 @@ Take a look at the in progress projects to see what it's like to work on a proje
 * [DeepSpeech](https://github.com/mozilla/DeepSpeech) - a very popular ASR framework - [project repo](https://github.com/AbdulRashidReshamwala/DeepSpeech_demo).
 * Enhanced super res GAN - [project repo](https://github.com/margaretmz/esrgan-e2e-tflite-tutorial).
 * Speech Command - [overview](overviews/speech_command.md).
-* Boundless model for image extrapolation - [project notebook](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb).
-
 
 ## End-to-end tutorials (completed)
 
@@ -48,6 +46,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * Sound classification - [Overview](overviews/classify_sound.md) | [Project repo](https://github.com/farmaker47/Yamnet_classification_project) | [Tutorial](https://farmaker47.medium.com/classification-of-sounds-using-android-mobile-phone-and-the-yamnet-ml-model-539bc199540).
 * MIRNet TFLite models for low-light image enhancement - [project repository](https://github.com/sayakpaul/MIRNet-TFLite/) | [TFLite models on TF Hub](https://tfhub.dev/sayakpaul/mirnet-fixed/1).
 * TTS TFLite Models (Tacotron2, FastSpeech2, MelGAN, MB-MELGAN, PWGAN) - [project repo](https://github.com/tulasiram58827/TTS_TFLite).
+* Boundless model for image extrapolation - [Colab Notebook](https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb) | [Models on TF-Hub](https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/dr/1).
 
 ## Contact the admins
 
