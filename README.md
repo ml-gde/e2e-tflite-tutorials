@@ -44,7 +44,7 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * Text detectors in TensorFlow Lite - [Converting CRAFT to TFLite: A Guide to PyTorch-TFLite Conversion](https://tulasi.dev/craft-in-tflite) | [A Battle of Text Detectors for Mobile Deployments: CRAFT vs. EAST](https://sayak.dev/optimizing-text-detectors/).
 * OCR TFLite Models - [Project Repository](https://github.com/tulasiram58827/ocr_tflite) | [End-to-End OCR Notebook](https://github.com/tulasiram58827/ocr_tflite/blob/main/colabs/ENDTOEND_OCR_TFLITE.ipynb).
 * Sound classification - [Overview](overviews/classify_sound.md) | [Project repo](https://github.com/farmaker47/Yamnet_classification_project) | [Tutorial](https://farmaker47.medium.com/classification-of-sounds-using-android-mobile-phone-and-the-yamnet-ml-model-539bc199540).
-* MIRNet TFLite models for low-light image enhancement - [project repository](https://github.com/sayakpaul/MIRNet-TFLite/) | [TFLite models on TF Hub](https://tfhub.dev/sayakpaul/mirnet-fixed/1).
+* MIRNet TFLite models for low-light image enhancement - [project repository](https://github.com/sayakpaul/MIRNet-TFLite/) | [TFLite models on TF Hub](https://tfhub.dev/sayakpaul/mirnet-fixed/1) | [MIRNet Flutter App Repoistory](https://github.com/sayannath/MIRNet-Flutter).
 * TTS TFLite Models (Tacotron2, FastSpeech2, MelGAN, MB-MELGAN, PWGAN) - [project repo](https://github.com/tulasiram58827/TTS_TFLite).
 * Boundless model for image extrapolation - [Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb) | [Models on TF-Hub](https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/dr/1).
 
