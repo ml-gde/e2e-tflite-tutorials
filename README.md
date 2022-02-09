@@ -48,6 +48,8 @@ Once a project has been completed, please open a PR to [awesome-tfite](https://g
 * Zero-DCE TFLite models for low light image enhancement - [project repository](https://github.com/sayannath/Zero-DCE-TFLite) | [TFLite models on TF Hub](https://tfhub.dev/sayannath/lite-model/zero-dce/1)
 * TTS TFLite Models (Tacotron2, FastSpeech2, MelGAN, MB-MELGAN, PWGAN) - [project repo](https://github.com/tulasiram58827/TTS_TFLite).
 * Boundless model for image extrapolation - [Colab Notebook](https://colab.research.google.com/github/sayakpaul/Adventures-in-TensorFlow-Lite/blob/master/Boundless_TFLite.ipynb) | [Models on TF-Hub](https://tfhub.dev/sayakpaul/lite-model/boundless-quarter/dr/1).
+* Pose Classification based Video Game Control using TensorFlow Lite - [Project Repository](https://github.com/NSTiwari/Video-Game-Control-using-Pose-Classification-and-TensorFlow-Lite) by Nitin Tiwari.
+
 
 ## Contact the admins
 
